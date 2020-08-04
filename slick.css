@@ -1,4 +1,4 @@
-/* Slider */
+/* Slider 위치, 여백, 출력 형태, 오버 플로우시 출력 형태를 조정 */
 .slick-slider
 {
     position: relative;
